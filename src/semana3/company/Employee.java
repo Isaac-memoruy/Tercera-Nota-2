@@ -1,5 +1,5 @@
 
-package semana3;
+package semana3.company;
 
 public class Employee {
     public String name;         
