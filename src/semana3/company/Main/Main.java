@@ -1,6 +1,6 @@
 package semana3.company.Main;
 
-import semana3.company.Main.Employee;
+import semana3.company.Employee;
 
 public class Main {
     public static void main(String[] args) {
