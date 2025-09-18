@@ -1,3 +1,4 @@
+package semana1;
 public class semana1 {
 
     public static class BankAccount {
