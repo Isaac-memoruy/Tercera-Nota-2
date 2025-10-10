@@ -1,4 +1,4 @@
-package pasoporReferencia;
+package semana5.pasoporReferencia;
 
 public class Main {
     public static void changeBox(Box newBox){

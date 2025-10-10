@@ -1,4 +1,4 @@
-package pasoporReferencia;
+package semana5.pasoporReferencia;
 
 public class Box {
     int size;
