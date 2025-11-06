@@ -1,8 +1,4 @@
-package unidad4;
-
-import unidad4.factory.Direccion;
-import unidad4.factory.Gerente;
-import unidad4.factory.Vendedor;
+package unidad4.factory;
 
 public class App {
     public static void main(String[] args) throws Exception {
